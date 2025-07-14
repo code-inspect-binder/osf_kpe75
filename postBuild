@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/kpe75_src")' >> /home/jovyan/.Rprofile
